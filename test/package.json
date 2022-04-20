@@ -1,0 +1,26 @@
+{
+  "name": "my_first_js_project",
+  "version": "1.0.0",
+  "description": "Live 1 Semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanHv/my_launchx_app.git"
+  },
+  "keywords": [
+    "LaunchX"
+  ],
+  "author": "GermanHv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanHv/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/GermanHv/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
