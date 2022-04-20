@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/GermanHv/my_launchx_app/issues"
   },
-  "homepage": "https://github.com/GermanHv/my_launchx_app#readme"
+  "homepage": "https://github.com/GermanHv/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
